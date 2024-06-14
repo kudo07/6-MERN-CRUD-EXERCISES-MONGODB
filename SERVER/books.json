@@ -1,0 +1,152 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publishYear": 1960
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "publishYear": 1949
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publishYear": 1925
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publishYear": 1951
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publishYear": 1937
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "publishYear": 1953
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publishYear": 1813
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "publishYear": 1851
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "publishYear": 1869
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publishYear": 1866
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "publishYear": -800
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "publishYear": 1880
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "publishYear": 1932
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "publishYear": 1847
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "publishYear": 1847
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "publishYear": 1945
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "publishYear": 1320
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "publishYear": 1862
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "publishYear": -750
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "publishYear": 1967
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "publishYear": 1890
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "publishYear": 1844
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "publishYear": 1939
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "publishYear": 1884
+  },
+  {
+    "title": "The Catch-22",
+    "author": "Joseph Heller",
+    "publishYear": 1961
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "publishYear": 1952
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publishYear": 1988
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "publishYear": 2006
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publishYear": 1954
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "publishYear": 1969
+  }
+]
